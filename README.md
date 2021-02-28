@@ -5,11 +5,13 @@ There are several ways to collect public twitter data using different programmin
 
 ## Available in the repo
 - R
+- Node.js
 - Python
 
+
 ## On the Horizon
-- Tensorflow.js
 - Node.js
+- Ruby
 - still exploring....
 
 ## Author
